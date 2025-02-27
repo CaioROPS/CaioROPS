@@ -2,7 +2,7 @@
 
 - 🎓 (2022-2024) Degree in System Analysis and Development - UniBrasil Centro Universitário
 - 👨‍💻 I'm a Mid Level Software Quality Analyst
-- 🔧 I’m currently in love with JavaScript and Cypress
+- 🔧 I’m currently learning more about JavaScript and Cypress
 - 📚 I'm mentor of QAs
 
 #### 📫 &nbsp;About me
