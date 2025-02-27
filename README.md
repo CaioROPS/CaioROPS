@@ -26,7 +26,7 @@ Every challenge I encounter is an opportunity to learn and improve. Whether itâ€
 
 - **Tech & Innovation:** Software Quality Engineering, Automation, Performance Testing, Technical Leadership, AI in QA, Future Tech Trends
 - **Community & Mentorship:** Helping professionals transition into QA, knowledge-sharing, public speaking
-- **Hobbies & Lifestyle:** Gym & fitness, Gaming, Soccer
+- **Hobbies & Lifestyle:** Gym, Gaming, Soccer
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=caiorops&show_icons=true&theme=radical)
