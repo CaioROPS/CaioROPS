@@ -35,3 +35,12 @@ Every challenge I encounter is an opportunity to learn and improve. Whether itâ€
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caio.rops99@gmail.com)](mailto:caio.rops99@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-ricardo/)](https://www.linkedin.com/in/caio-ricardo/)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
+  <img align="center" alt="Jho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jho-Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">
+  <img align="center" alt="Jho-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>        
+ 
+</div>
