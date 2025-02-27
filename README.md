@@ -17,8 +17,8 @@ Every challenge I encounter is an opportunity to learn and improve. Whether itâ€
 
 #### ðŸ§  &nbsp;Skills
 
-- **Programming Languages:** JavaScript, SQL, SQL Server
-- **Frameworks & Libraries:** Cypress, Selenium, Jest
+- **Programming Languages:** Java, JavaScript, SQL, SQL Server
+- **Frameworks & Libraries:** Cypress, Selenium
 - **Tools & Platforms:** Azure DevOps, Jira (Zephyr), Postman, Swagger, LambdaTest
 - **Soft Skills:** Driven, Creativity, Leadership, Teamwork, Communication, Critical Thinking, Problem-Solving, Resilience, Mentorship
 
