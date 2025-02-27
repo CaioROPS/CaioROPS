@@ -30,3 +30,8 @@ Every challenge I encounter is an opportunity to learn and improve. Whether it‚Ä
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=caiorops&show_icons=true&theme=radical)
+
+#### üåç &nbsp;Get in Touch
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caio.rops99@gmail.com)](mailto:caio.rops99@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-ricardo/)](https://www.linkedin.com/in/caio-ricardo/)
