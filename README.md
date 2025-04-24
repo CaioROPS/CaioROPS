@@ -28,8 +28,11 @@ Every challenge I encounter is an opportunity to learn and improve. Whether it‚Ä
 - **Community & Mentorship:** Helping professionals transition into QA, knowledge-sharing, public speaking
 - **Hobbies & Lifestyle:** Gym, Gaming, Soccer
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=caiorops&show_icons=true&theme=radical)
+<div> 
+    <a href="https://github.com/caiorops">
+      <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=qamichaelmaia&show_icons=true&theme=dark" />
+    </a>
+</div>
 
 #### üåç &nbsp;Get in Touch
 
