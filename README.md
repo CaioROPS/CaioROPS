@@ -51,6 +51,9 @@ Every challenge I encounter is an opportunity to learn and improve. Whether itâ€
   <img align="center" alt="Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
   <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+  <img align="center" alt="Robot Framework" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/robotframework/robotframework-original.svg">
+  <img align="center" alt="Selenium" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="GitHub Desktop" height="30" width="40" src="https://desktop.github.com/images/desktop-icon.svg">
- 
+  
 </div>
