@@ -30,7 +30,7 @@ Every challenge I encounter is an opportunity to learn and improve. Whether itâ€
 
 <div> 
     <a href="https://github.com/caiorops">
-      <img src="https://github-readme-stats.vercel.app/api?username=caiorops&show_icons=true&theme=dark" />
+          <img src="https://github-readme-stats.vercel.app/api?username=caiorops&show_icons=true&theme=dark" />
     </a>
 </div>
 
